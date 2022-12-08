@@ -170,6 +170,10 @@ nav > .nav_links > ul > li > p:hover {
     cursor: pointer;
     color: #467B5F;
 }
+nav > .nav_links > ul > a > li > p:hover {
+    cursor: pointer;
+    color: #467B5F;
+}
 nav > .mobile_icons {
     display: none;
 }
